@@ -97,3 +97,7 @@ footer{
     left: 0;
     padding: 1rem;
 }
+.opphavsrett, .oppdatering{
+    font-size: 12px;
+    margin: 0;
+}

@@ -133,3 +133,7 @@ footer{
     padding: 1rem;
     clear: both;
 }
+.opphavsrett, .oppdatering{
+    font-size: 12px;
+    margin: 0;
+}

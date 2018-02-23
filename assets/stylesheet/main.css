@@ -63,7 +63,7 @@ nav{
 }
 footer{
     width: 97.5%;
-    height: 10%;
+    height: 5%;
     color: #fdfffb;
     background: #273b7a;
     position: absolute;
@@ -71,5 +71,9 @@ footer{
     bottom: -450px;
     left: 0;
     padding: 1rem;
+}
+.opphavsrett, .oppdatering{
+    font-size: 12px;
+    margin: 0;
 }
 
