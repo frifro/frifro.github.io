@@ -58,13 +58,21 @@ section {
 }
 
 #article_one{
-    width: 70%;
+    width: 50%;
     padding: 20px;
 }
 
 #article_two{
-    width: 60%;
+    width: 50%;
     margin: 20px;
+}
+.brannsystem{
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-right: 10%;
+    margin-top: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 footer {
     width: 97%;

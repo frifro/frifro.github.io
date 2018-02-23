@@ -4,6 +4,13 @@ body{
     padding:0;
     height:100%;
 }
+h1{
+    color: #395870;
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -34,14 +41,26 @@ nav{
      height: 200px;
 
  }
-section{
+.section-one{
+    float: right;
+    width: 30%;
+    height: 30%;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+.section-two{
     width: auto;
     height: auto;
     padding: 20px;
     margin-left: 10%;
     overflow-y:scroll;
 }
-
+.sea_view, .roof_view{
+    width: 90%;
+    height: 90%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 7%;
+}
 footer{
     width: 97.5%;
     height: 10%;
@@ -49,7 +68,7 @@ footer{
     background: #273b7a;
     position: absolute;
     right: 0;
-    bottom: 0;
+    bottom: -450px;
     left: 0;
     padding: 1rem;
 }
